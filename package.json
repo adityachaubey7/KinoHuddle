@@ -1,0 +1,14 @@
+{
+  "name": "syncspace",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Real-time YouTube watch parties: private rooms, synced playback, chat and reactions.",
+  "scripts": {
+    "install:all": "npm --prefix server install && npm --prefix client install",
+    "dev:server": "npm --prefix server run dev",
+    "dev:client": "npm --prefix client run dev",
+    "build": "npm --prefix client run build",
+    "start": "NODE_ENV=production npm --prefix server start",
+    "test": "npm --prefix server test"
+  }
+}
