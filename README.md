@@ -1,4 +1,4 @@
-# SyncSpace
+# KinoHuddle
 
 Real-time watch parties for YouTube. Create a private room, share the invite link, and everyone’s player stays on the same moment: play, pause, seek and speed changes reach the whole room, players that drift get pulled back in line, and the room talks it through in chat with emoji reactions.
 
